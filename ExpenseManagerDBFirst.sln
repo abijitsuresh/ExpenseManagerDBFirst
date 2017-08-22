@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseManagerDBFirst", "ExpenseManagerDBFirst\ExpenseManagerDBFirst.csproj", "{6E34363A-3EAF-4C3A-9EA2-BBA9E5569151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseManagerDBFirst.Tests", "ExpenseManagerDBFirst.Tests\ExpenseManagerDBFirst.Tests.csproj", "{B2AD933C-EA0E-4E88-913F-0BED6270FFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E34363A-3EAF-4C3A-9EA2-BBA9E5569151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E34363A-3EAF-4C3A-9EA2-BBA9E5569151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E34363A-3EAF-4C3A-9EA2-BBA9E5569151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E34363A-3EAF-4C3A-9EA2-BBA9E5569151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AD933C-EA0E-4E88-913F-0BED6270FFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AD933C-EA0E-4E88-913F-0BED6270FFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AD933C-EA0E-4E88-913F-0BED6270FFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AD933C-EA0E-4E88-913F-0BED6270FFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC871A5C-59AA-4629-BB70-5D8C68A83969}
+	EndGlobalSection
+EndGlobal
